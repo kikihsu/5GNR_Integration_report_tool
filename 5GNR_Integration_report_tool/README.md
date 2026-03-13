@@ -180,10 +180,3 @@ These thresholds are defined in `config.py` and can be adjusted by the tool owne
 | v1.0 | 2025-01-15 | Initial release with multi-encoding support |
 | v0.9 | 2025-08-07 | Original version |
 
----
-
-## 📧 Support
-
-=============================================================
-  For support, contact: [Kiki Hsu / kiki.hsu@ericsson.com]
-=============================================================
